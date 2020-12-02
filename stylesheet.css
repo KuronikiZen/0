@@ -1,0 +1,44 @@
+*{
+    padding:0;
+    margin:0;
+}
+
+.judul{
+    padding:20px;
+    background-color:#5f7fd8bd;
+}
+
+.fubuki{
+    background-color:white;
+}
+
+.fubuki1{
+    display:block;
+    margin:auto;
+
+}
+.but1{
+margin-top:20px;
+}
+.button1{
+    width:100px;
+    height:30px;
+    display:block;
+    margin:auto;
+
+}
+.but2{
+    margin-top:20px;
+    }
+.button2{
+        width:100px;
+        height:30px;
+        display:block;
+        margin:auto;
+    
+    }
+
+.layar1{
+    width:50px;
+    height:50px;
+}
